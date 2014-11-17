@@ -1,0 +1,20 @@
+1 servidor dedicado 
+	hp proliant http://www8.hp.com/bo/es/products/proliant-servers/product-detail.html?oid=6764695#!tab=specs $8,800
+	procesador Intel® Xeon® E5-2650 v3 (10 núcleos, 2,3 GHz, 25 MB, 105 W)
+	RAM 32 GB
+	2 x Xeon E5-2650V3 / 2.3 GHz
+	4 dispositivos de red de tipo Broadcom 4x1Gbe y; Adaptador FlexFabric 533FLR-T de 10 Gb
+	Ranuras para ram memory : 24 ranuras DIMM
+	tipo de memoria: 2R x4 PC4-2133P-R
+	Control de almacenamiento Dynamic Smart Array B140i y; Smart Array P440ar/FBWC de 2 GB
+	Dimensiones (ancho x prof. x alt.) 44,54 x 73,02 x 8,73 cm 
+	Peso 14,79 kg 
+
+3 repetidoras wifi
+	Linksys/Cisco AE2500 300Mbps Wireless-N Dual-Band	90$	x3
+Cable de Red
+Alicate para hacer conexiones de red
+conectores ? conectores
+Ups (para evitar cortes inesperados de corriente)
+extensor de corriente (servidor)
+extensor de corriente (repetidoras)

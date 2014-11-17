@@ -1,0 +1,7 @@
+Servidor dhcp:
+	el servidor dhcp ira en el servidor, por lo que las repetidoras deberan estar con su servidor dhcp incorporado en modo desactivado, para que sea el servidor el encargado de proveer direcciones ip y poder trabajar con una red de tipo B para poder cubrir con la cantidad de alumnos de la fich, 
+	Mascara de subred:  se asignara a los clientes una mascara de subred "172.16.0.0/16" o "255.255.0.0" para que la red pueda albergar a un maximo de 65023 clientes, mas que suficiente para cubrir toda la FICH
+Servidor DNS:
+	el servidor dns contara con una zona de nombre "biblioteca.fich" y se le asignara la ip "172.16.0.1"
+Tiempo de expiracion de las ip: se definira el tiempo de expiracion de las direcciones ip a 12 horas (medio dia)
+
