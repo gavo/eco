@@ -1,0 +1,5 @@
+medidas biblioteca 20x10
+switch - wifi1	15m + 3m = 18m
+wifi1 - wifi2 = 70m + 5m = 75m
+wifi2 - wifi3 = 75m + 5m = 80m
+switch - wifi4 = 65m + 5m = 70m
