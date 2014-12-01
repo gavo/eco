@@ -1,0 +1,8 @@
+capitulo 1:	Introducion
+capitulo 2:	Estudio del mercado
+capitulo 3:	Tamaño y localizacion 
+capitulo 4:	ingenieria
+capitulo 5:	organizacion 
+capitulo 6:	inversiones y financiamiento 
+capitulo 7:	presupuesto e ingreso
+capitulo 8:	evaluacion economica
